@@ -4,6 +4,10 @@ gem 'rails', '4.2.0'
 
 gem 'sqlite3'
 
+gem 'binding_of_caller'
+
+gem 'jquery-ui-rails'
+gem 'jquery-rails'
 
 # learn-rails
 gem 'foundation-rails'
