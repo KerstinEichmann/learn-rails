@@ -8,7 +8,7 @@ gem 'binding_of_caller'
 
 gem 'jquery-ui-rails'
 gem 'jquery-rails'
-
+gem 'turbolinks'
 # learn-rails
 gem 'foundation-rails'
 gem 'gibbon'
